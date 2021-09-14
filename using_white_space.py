@@ -1,0 +1,1 @@
+print("It's great to know the languages below:\n\t1. Python\n\t2. C\n\t3. JavaScript")

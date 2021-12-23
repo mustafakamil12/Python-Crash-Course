@@ -1,3 +1,5 @@
+# using f-string
+
 first_name = "ada"
 last_name = "lovelace"
 

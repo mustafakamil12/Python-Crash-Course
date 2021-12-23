@@ -1,4 +1,4 @@
-message = "One of Python's strengths is itsdiverse community."
+message = "One of Python's strengths is its diverse community."
 print(message)
 
 famous_person = " Albert Einstein "

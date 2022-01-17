@@ -1,6 +1,6 @@
 """A set classes that can be used to represent electric cars."""
 
-from car import Car
+from car import Car  #Import module into module
 
 class ElectricCar(Car):
     """represent aspects of a car, specific to electric vehicles."""
